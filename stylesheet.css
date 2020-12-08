@@ -1,0 +1,37 @@
+body {
+    background: rgb(54, 53, 68);
+    color: whitesmoke;
+    font-family: monospace;
+  }
+  a {
+    text-underline-position: below;
+    color: wheat;
+  }
+  .welcome {
+    font-size: 80px;
+    text-align-last: center;
+  }
+  .text {
+    font-size: 25px;
+  }
+  .nav {
+    font-size: 20px;
+    text-align: center;
+    display: inline-block;
+    border: solid 2px;
+    padding: 5px;
+    border-color: greenyellow;
+  }
+  .island1_img {
+    width: 1400px;
+    height: 800px;
+    margin-left: 240px;
+  }
+  .opensource_header {
+    margin-bottom: 40px;
+    text-align-last: center;
+    display: inline-block;
+    border: solid 4px;
+    border-color: skyblue; 
+    font-size: 18px;
+  }
